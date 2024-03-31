@@ -10,10 +10,8 @@ However, you can try it by downloading the APK file.
 1. FLutter for FE
 2. Golang For BE
 
-## Slide for introduction of KU CUPID
-https://www.canva.com/design/DAF4W3lIyyw/35vFZV8XqNbYfRREid6CcA/view?utm_content=DAF4W3lIyyw&utm_campaign=designshare&utm_medium=link&utm_source=editor
-
+## Try the prototype
+https://www.figma.com/proto/F09b2fRr1olfOoMfHfBzxd/KU_CUPID?type=design&node-id=11-165&t=yF3yRjftUUN9633G-1&scaling=scale-down&page-id=0%3A1&starting-point-node-id=11%3A165&mode=design
 
 ## Examples of our application.
-![example of KU CUPID](https://github.com/ChatchawanSama/KU-CUPID/assets/78589020/28d88a15-a701-47f1-8d72-6565e862d033)
-
+![example of KU CUPID](https://github.com/ChatchawanSama/KU-CUPID/assets/78589020/f9108a4b-894f-4d93-b902-f7df0016dc4a)
