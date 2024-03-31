@@ -9,5 +9,11 @@ However, you can try it by downloading the APK file.
 ## And this project has 2 parts.
 1. FLutter for FE
 2. Golang For BE
-![Screenshot_1711381171](https://github.com/ChatchawanSama/KU-CUPID/assets/78589020/f7218c23-b7bc-46d3-bb59-f3fa361d428f) ![Screenshot_1711388191](https://github.com/ChatchawanSama/KU-CUPID/assets/78589020/0e0083de-2196-4eee-99cf-ca18c8542289)
+
+## Slide for introduction of KU CUPID
+https://www.canva.com/design/DAF4W3lIyyw/35vFZV8XqNbYfRREid6CcA/view?utm_content=DAF4W3lIyyw&utm_campaign=designshare&utm_medium=link&utm_source=editor
+
+
+## Examples of our application.
+![example of KU CUPID](https://github.com/ChatchawanSama/KU-CUPID/assets/78589020/28d88a15-a701-47f1-8d72-6565e862d033)
 
